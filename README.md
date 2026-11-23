@@ -5,8 +5,8 @@ MSc-trained AI and data analytics practitioner (University of Bradford) and foun
 Python (pandas, scikit-learn, XGBoost) · SQL · Power BI · SAS · Excel · React, TypeScript and Supabase (AI-assisted builds)
 
 ## Projects
-- **[IBM Employee Attrition](https://github.com/Paulolaide25/IBM-Employee-Attrition)**: what makes employees leave, and how well models can predict it
-- **[IBM Attrition Rate](https://github.com/Paulolaide25/IBM-Attrition-Rate)**: Logistic Regression vs Random Forest vs Decision Tree
+- **[IBM Employee Attrition](https://github.com/Paulolaide25/IBM-Employee-Attrition)**: what makes employees leave, and how well models can predict it (leaver recall, ROC-AUC)
+- **[IBM Attrition Rate](https://github.com/Paulolaide25/IBM-Attrition-Rate)**: Logistic Regression vs Random Forest vs Decision Tree, with class weighting and ROC-AUC
 - **[House Price Prediction](https://github.com/Paulolaide25/House-Price-Prediction)**: Linear Regression vs Random Forest vs XGBoost
 - **[HR Employee Attrition (SAS)](https://github.com/Paulolaide25/HR-Employee-Attrition)**: statistical analysis in SAS Enterprise Guide
 - **[Arrowcorp Profit and Sales](https://github.com/Paulolaide25/Arrowcorp-Profit_Sales)**: interactive Power BI dashboard
