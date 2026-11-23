@@ -1,9 +1,8 @@
 # Hi, I'm Olaide 👋
 
-SaaS developer, data analyst and business owner based in the UK, with roots in Lagos, Nigeria and Praslin, Seychelles. I turn messy data into clear answers, and I make music as **Dizl**.
-
+MSc-trained AI and data analytics practitioner (University of Bradford) and founder of Maths Tycoon UK. I turn messy data into clear answers, and I direct AI-assisted builds from idea to live product. Based in the UK, with roots in Lagos, Nigeria and Praslin, Seychelles. I also make music as **Dizl**.
 ## What I work with
-Python (pandas, scikit-learn, XGBoost) · Power BI · SAS · Excel · HTML/CSS/JavaScript
+Python (pandas, scikit-learn, XGBoost) · SQL · Power BI · SAS · Excel · React, TypeScript and Supabase (AI-assisted builds)
 
 ## Projects
 - **[IBM Employee Attrition](https://github.com/Paulolaide25/IBM-Employee-Attrition)**: what makes employees leave, and how well models can predict it
